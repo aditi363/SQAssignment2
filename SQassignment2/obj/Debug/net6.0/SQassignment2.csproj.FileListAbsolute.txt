@@ -1,0 +1,15 @@
+C:\Users\saini\source\repos\SQassignment2\SQassignment2\bin\Debug\net6.0\SQassignment2.exe
+C:\Users\saini\source\repos\SQassignment2\SQassignment2\bin\Debug\net6.0\SQassignment2.deps.json
+C:\Users\saini\source\repos\SQassignment2\SQassignment2\bin\Debug\net6.0\SQassignment2.runtimeconfig.json
+C:\Users\saini\source\repos\SQassignment2\SQassignment2\bin\Debug\net6.0\SQassignment2.dll
+C:\Users\saini\source\repos\SQassignment2\SQassignment2\bin\Debug\net6.0\SQassignment2.pdb
+C:\Users\saini\source\repos\SQassignment2\SQassignment2\obj\Debug\net6.0\SQassignment2.csproj.AssemblyReference.cache
+C:\Users\saini\source\repos\SQassignment2\SQassignment2\obj\Debug\net6.0\SQassignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saini\source\repos\SQassignment2\SQassignment2\obj\Debug\net6.0\SQassignment2.AssemblyInfoInputs.cache
+C:\Users\saini\source\repos\SQassignment2\SQassignment2\obj\Debug\net6.0\SQassignment2.AssemblyInfo.cs
+C:\Users\saini\source\repos\SQassignment2\SQassignment2\obj\Debug\net6.0\SQassignment2.csproj.CoreCompileInputs.cache
+C:\Users\saini\source\repos\SQassignment2\SQassignment2\obj\Debug\net6.0\SQassignment2.dll
+C:\Users\saini\source\repos\SQassignment2\SQassignment2\obj\Debug\net6.0\refint\SQassignment2.dll
+C:\Users\saini\source\repos\SQassignment2\SQassignment2\obj\Debug\net6.0\SQassignment2.pdb
+C:\Users\saini\source\repos\SQassignment2\SQassignment2\obj\Debug\net6.0\SQassignment2.genruntimeconfig.cache
+C:\Users\saini\source\repos\SQassignment2\SQassignment2\obj\Debug\net6.0\ref\SQassignment2.dll
